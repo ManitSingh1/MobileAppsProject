@@ -48,5 +48,3 @@ We will use GitHub for version control and collaboration.
 - Help integrate all parts of the app
 - Prepare demo and presentation
 
-## Repository
-(Add your GitHub repository link here)
